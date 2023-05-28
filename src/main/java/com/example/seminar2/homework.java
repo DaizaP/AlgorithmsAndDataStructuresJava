@@ -1,4 +1,4 @@
-package seminar2;
+package com.example.seminar2;
 
 public class homework {
     public void sort(int arr[]) {
